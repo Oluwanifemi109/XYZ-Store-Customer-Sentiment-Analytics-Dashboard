@@ -18,6 +18,8 @@ The dashboard includes filters for department, class name, division, and custome
 
 **What’s the overall picture of customer satisfaction and feedback trends?**
 
+![XYZ Store Dashboard](https://github.com/Oluwanifemi109/XYZ-Store-Customer-Sentiment-Analytics-Dashboard/blob/main/XYZ%20Store_image.jpg)
+
 **KPIs:**
 
 - **Total Reviews:** 1,206
